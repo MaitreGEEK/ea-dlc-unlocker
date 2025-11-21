@@ -8,3 +8,6 @@ Ceux-ci sont les derniers fichiers récupérés pour le EA DLC Unlocker précéd
 
 # Disclaimer
 Je ne possède pas ces fichiers, je ne fais que les partager ici dans un cadre d'archivage. 
+
+# Donations
+Si vous souhaitez me faire un petit geste suivez ce lien : https://donate.maitregeek.eu

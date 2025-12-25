@@ -4,7 +4,7 @@ Ceux-ci sont les derniers fichiers récupérés pour le EA DLC Unlocker précéd
 # Fichiers
 [EA DLC Unlocker v2.zip](https://raw.githubusercontent.com/MaitreGEEK/ea-dlc-unlocker/refs/heads/main/EA%20DLC%20Unlocker%20v2.zip) (Winwows et Linux)
 
-[EA DLC Unlocker for Mac.zip](https://raw.githubusercontent.com/MaitreGEEK/ea-dlc-unlocker/refs/heads/main/EA%20DLC%20Unlocker%20for%20Mac.zipp)
+[EA DLC Unlocker for Mac.zip](https://raw.githubusercontent.com/MaitreGEEK/ea-dlc-unlocker/refs/heads/main/EA%20DLC%20Unlocker%20for%20Mac.zip)
 
 # Infos pour ceux venant de mes vidéos YouTube 
 Anadius a fermé ses sites, donc ce que vous voyez dans la vidéo n'est plus disponible, j'ai remplacé les liens non fonctionnels d'Anadius par des nouveaux liens fonctionnels. Pour télécharger le EA DLC Unlocker, vous n'avez qu'à cliquer sur le lien juste au dessus :] 

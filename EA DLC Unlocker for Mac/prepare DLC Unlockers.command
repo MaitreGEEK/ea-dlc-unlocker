@@ -22,6 +22,13 @@ if [[ $ss > 0 ]]; then
   echo "Failed creating a DLC Unlocker for $GAME_NAME"
   ((ss2++))
   rm -fr "$APP_NAME"
+else
+  # Fix permissions et bypass Gatekeeper
+  chmod +x "$BUNDLE_PATH/unlocker"
+  chmod 755 "$BUNDLE_PATH/"*.dylib
+  chmod 644 "$BUNDLE_PATH/"*.cfg
+  xattr -cr "$APP_NAME"
+  echo "DLC Unlocker for $GAME_NAME prêt – double-clic ou open \"$APP_NAME\""
 fi
 
 ss=0
@@ -37,6 +44,13 @@ if [[ $ss > 0 ]]; then
   echo "Failed creating a DLC Unlocker for $GAME_NAME"
   ((ss2++))
   rm -fr "$APP_NAME"
+else
+  # Fix permissions et bypass Gatekeeper
+  chmod +x "$BUNDLE_PATH/unlocker"
+  chmod 755 "$BUNDLE_PATH/"*.dylib
+  chmod 644 "$BUNDLE_PATH/"*.cfg
+  xattr -cr "$APP_NAME"
+  echo "DLC Unlocker for $GAME_NAME prêt – double-clic ou open \"$APP_NAME\""
 fi
 
 printf "\n\n"
@@ -48,6 +62,7 @@ else
   echo "DLC Unlockers created successfully!"
   echo "You need to run the DLC Unlocker before opening the EA app or the game."
   echo "For detailed instructions see the readme file."
+  echo "Apps prêtes à lancer sans commandes supplémentaires (si Gatekeeper popup, clic 'Ouvrir quand même' dans Réglages)."
 fi
 
 printf "\n\n"
